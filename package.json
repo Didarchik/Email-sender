@@ -1,0 +1,17 @@
+{
+  "name": "sign-up",
+  "version": "1.0.0",
+  "description": "Sign up practice",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
